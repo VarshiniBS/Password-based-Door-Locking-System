@@ -1,1 +1,7 @@
+Required Components in proteus simulator
+1. 4×3 matrix keypad
+2. 16×2 LCD 
+3. DC motor 
+4. Motor Driver 
+5. LPC2148 Microcontroller
 
